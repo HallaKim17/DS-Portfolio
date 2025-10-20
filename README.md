@@ -13,25 +13,25 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 
-<img align="left" width="250" height="150" src=""> **[Quantifying Creativity As Network Centrality](https://github.com/HallaKim17/creativity_as_network_centrality)**
+<img align="left" width="250" height="150" src="https://github.com/HallaKim17/DS-Portfolio/imgs/elgammal.png"> **[Quantifying Creativity As Network Centrality](https://github.com/HallaKim17/creativity_as_network_centrality)**
 
 This is a personal implementation of the methodology of the paper: Elgammal, A., & Saleh, B. (2015). Quantifying creativity in art networks. arXiv preprint arXiv:1506.00711.
 
 #
 
-<img align="left" width="250" height="150" src=""> **[Markov Chain Modeling and Information Content(IC) of MIDI Data](https://github.com/HallaKim17/novelty_influence)**
+<img align="left" width="250" height="150" src="https://github.com/HallaKim17/DS-Portfolio/imgs/doheum.png"> **[Markov Chain Modeling and Information Content(IC) of MIDI Data](https://github.com/HallaKim17/novelty_influence)**
 
 This is a personal implementation of the paper: Park, D., Nam, J. & Park, J. Novelty and influence of creative works, and quantifying patterns of advances based on probabilistic references networks. EPJ Data Sci. 9, 2 (2020). https://doi.org/10.1140/epjds/s13688-019-0214-8
 
 #
 
-<img align="left" width="250" height="150" src=""> **[🎵 MelOrbit: A Cosmic Choir Simulator](https://github.com/HallaKim17/hallakim17.github.io/tree/master/ctp431)**
+<img align="left" width="250" height="150" src="https://github.com/HallaKim17/DS-Portfolio/imgs/melorbit.png"> **[🎵 MelOrbit: A Cosmic Choir Simulator](https://github.com/HallaKim17/hallakim17.github.io/tree/master/ctp431)**
 
 Built with **p5.js**, **Tone.js**, and **sketch.js** on **index.html**, MelOrbit turns the voices of a choir into planetary orbits where melodies revolve in harmony. Conduct your own universe of sound and explore how distinct tones form a celestial symphony. [Web App](http://hallakim17.github.io/ctp431/final_project/index.html)
 
 #
 
-<img align="left" width="250" height="150" src=""> **[🧠 VoiceGraph: Real-Time Speech-to-Knowledge Web App](https://github.com/HallaKim17/talk-to-graph)**
+<img align="left" width="250" height="150" src="https://github.com/HallaKim17/DS-Portfolio/imgs/speech2network.png"> **[🧠 VoiceGraph: Real-Time Speech-to-Knowledge Web App](https://github.com/HallaKim17/talk-to-graph)**
 
 Built with React and Node.js, VoiceGraph uses an STT (Speech-to-Text) API to recognize speech in real time and dynamically visualize it as an interactive knowledge graph. Watch your spoken words transform instantly into a living network of connected ideas.
 
