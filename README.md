@@ -1,11 +1,12 @@
 # Data Science Portfolio - Halla Kim
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
 
+- **Fields of Interest: Computational Creativity, Automatic Evaluation Metric, Innovation Dynamics
 - **Email**: [kimhalla@gmail.com](kimhalla@gmail.com)
 - **LinkedIn**: [linkedin.com/hallakim](https://www.linkedin.com/in/halla-kim-11a499194/)
 
 ## Main Publications
-- Recipient of Outstanding Master of Engineering - Industrial Engineering Student Award.
+- Recipient of the Kim Young-Han Global Leadership Scholarship.
 - [Publication](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-025-00586-2#citeas): Understanding rhythmic structures, novelty, and influence in classical music from data, EPJ Data Science. 14, 70 (2025)
 - [Publication](https://doi.org/10.1007/978-3-032-02042-0_17): On the Analysis of Voicing Novelty in Classical Piano Music, Music and Sound Generation in
  the AI Era. CMMR 2023. Lecture Notes in Computer Science, vol 15236. Springer, Cham.
