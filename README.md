@@ -1,7 +1,7 @@
 # Data Science Portfolio - Halla Kim
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
 
-- **Fields of Interest: Computational Creativity, Automatic Evaluation Metric, Innovation Dynamics
+- **Fields of Interest**: Computational Creativity, Automatic Evaluation Metric, Innovation Dynamics
 - **Email**: [kimhalla@gmail.com](kimhalla@gmail.com)
 - **LinkedIn**: [linkedin.com/hallakim](https://www.linkedin.com/in/halla-kim-11a499194/)
 
@@ -22,6 +22,12 @@ This is a personal implementation of the methodology of the paper: Elgammal, A.,
 <img align="left" width="250" height="150" src="https://github.com/HallaKim17/DS-Portfolio/blob/main/imgs/doheum.png"> **[Markov Chain Modeling and Information Content(IC) of MIDI Data](https://github.com/HallaKim17/novelty_influence)**
 
 This is a personal implementation of the paper: Park, D., Nam, J. & Park, J. Novelty and influence of creative works, and quantifying patterns of advances based on probabilistic references networks. EPJ Data Sci. 9, 2 (2020). https://doi.org/10.1140/epjds/s13688-019-0214-8
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/HallaKim17/DS-Portfolio/blob/main/imgs/papercode.png"> **[Quantifying Creativity-Related Metrics and Knowledge Discovery of Creative Dynamics](https://osf.io/e2zh3/overview?view_only=5be8d6686d53432792a41b045d6b4746)**
+
+This is a paper code of my paper: Understanding rhythmic structures, novelty, and influence in classical music from data, EPJ Data Science. 14, 70 (2025). https://doi.org/10.1140/epjds/s13688-025-00586-2
 
 #
 
@@ -49,7 +55,7 @@ Built with React and Node.js, VoiceGraph uses an STT (Speech-to-Text) API to rec
 ## Core Competencies
 
 - **Methodologies**: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, Cultural Analytics, Complex Network Analysis, Big Data Analytics
-- **Fields of Interest: Computational Creativity, Automatic Evaluation Metric, Innovation Dynamics
+- **Fields of Interest**: Computational Creativity, Automatic Evaluation Metric, Innovation Dynamics
 - **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Torch, Matplotlib, Dask), Javascript, React
 - **Tools**: MySQL, Git, Amazon Web Services (AWS), Neo4j
 
