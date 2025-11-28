@@ -43,8 +43,10 @@ This is a paper code of my paper: Understanding rhythmic structures, novelty, an
 
 Built with React and Node.js, VoiceGraph uses an STT (Speech-to-Text) API to recognize speech in real time and dynamically visualize it as an interactive knowledge graph. Watch your spoken words transform instantly into a living network of connected ideas.
 
+#
+
 - ### MelOrbit
-- ### <img align="left" width="250" height="150" src="https://github.com/HallaKim17/DS-Portfolio/blob/main/imgs/melorbit.png"> **[🎵 MelOrbit: A Cosmic Choir Simulator](https://github.com/HallaKim17/hallakim17.github.io/tree/master/ctp431)**
+  ### <img align="left" width="250" height="150" src="https://github.com/HallaKim17/DS-Portfolio/blob/main/imgs/melorbit.png"> **[🎵 MelOrbit: A Cosmic Choir Simulator](https://github.com/HallaKim17/hallakim17.github.io/tree/master/ctp431)**
 
 Built with **p5.js**, **Tone.js**, and **sketch.js** on **index.html**, MelOrbit turns the voices of a choir into planetary orbits where melodies revolve in harmony. Conduct your own universe of sound and explore how distinct tones form a celestial symphony. [Web App](http://hallakim17.github.io/ctp431/final_project/index.html)
 
