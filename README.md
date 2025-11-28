@@ -1,8 +1,7 @@
 # Data Science Portfolio - Halla Kim
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
 
-# This is my CV : [HallaKim_CV.pdf](https://github.com/HallaKim17/DS-Portfolio/blob/main/HallaKim_CV.pdf) 
-
+## This is my CV : [HallaKim_CV.pdf](https://github.com/HallaKim17/DS-Portfolio/blob/main/HallaKim_CV.pdf) 
 - **Fields of Interest**: Computational Creativity, Automatic Evaluation Metric, Innovation Dynamics
 - **Email**: [kimhalla@gmail.com](kimhalla@gmail.com)
 - **LinkedIn**: [linkedin.com/hallakim](https://www.linkedin.com/in/halla-kim-11a499194/)
