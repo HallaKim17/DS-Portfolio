@@ -37,9 +37,7 @@ Built with **p5.js**, **Tone.js**, and **sketch.js** on **index.html**, MelOrbit
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/HallaKim17/DS-Portfolio/blob/main/imgs/speech2network.png"> **[🧠 VoiceGraph: Real-Time Speech-to-Knowledge Web App](https://github.com/HallaKim17/talk-to-graph)**
 
-Built with React and Node.js, VoiceGraph uses an STT (Speech-to-Text) API to recognize speech in real time and dynamically visualize it as an interactive knowledge graph. Watch your spoken words transform instantly into a living network of connected ideas.
 
 #
 
@@ -48,7 +46,9 @@ Built with React and Node.js, VoiceGraph uses an STT (Speech-to-Text) API to rec
 
 ## Micro Projects
 - ### blah blah
-    - [Genetic Algorithm](test) : blah
+    - <img align="left" width="250" height="150" src="https://github.com/HallaKim17/DS-Portfolio/blob/main/imgs/speech2network.png"> **[🧠 VoiceGraph: Real-Time Speech-to-Knowledge Web App](https://github.com/HallaKim17/talk-to-graph)**
+
+Built with React and Node.js, VoiceGraph uses an STT (Speech-to-Text) API to recognize speech in real time and dynamically visualize it as an interactive knowledge graph. Watch your spoken words transform instantly into a living network of connected ideas.
    
  
  
@@ -61,6 +61,5 @@ Built with React and Node.js, VoiceGraph uses an STT (Speech-to-Text) API to rec
 
 ## Certificates
 
-- 
-- [Big Data 101 By Cognitiveclass.ai](https://courses.cognitiveclass.ai/certificates/bfc1df7e5d084a73b84223495263d0fe)
-- [Google Analytics for Begineers By Google](https://analytics.google.com/analytics/academy/certificate/kHYtirzEQV29uzNG8xSFXg)
+- [Gen AI - RAG Application Development using LlamaIndex](https://coursera.org/share/2cc96edd2e37f55f604b32d79f267355)
+
