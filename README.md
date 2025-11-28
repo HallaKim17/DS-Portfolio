@@ -29,13 +29,6 @@ This is a personal implementation of the paper: Park, D., Nam, J. & Park, J. Nov
 
 This is a paper code of my paper: Understanding rhythmic structures, novelty, and influence in classical music from data, EPJ Data Science. 14, 70 (2025). https://doi.org/10.1140/epjds/s13688-025-00586-2
 
-#
-
-<img align="left" width="250" height="150" src="https://github.com/HallaKim17/DS-Portfolio/blob/main/imgs/melorbit.png"> **[🎵 MelOrbit: A Cosmic Choir Simulator](https://github.com/HallaKim17/hallakim17.github.io/tree/master/ctp431)**
-
-Built with **p5.js**, **Tone.js**, and **sketch.js** on **index.html**, MelOrbit turns the voices of a choir into planetary orbits where melodies revolve in harmony. Conduct your own universe of sound and explore how distinct tones form a celestial symphony. [Web App](http://hallakim17.github.io/ctp431/final_project/index.html)
-
-#
 
 
 
@@ -49,7 +42,13 @@ Built with **p5.js**, **Tone.js**, and **sketch.js** on **index.html**, MelOrbit
   ### <img align="left" width="250" height="150" src="https://github.com/HallaKim17/DS-Portfolio/blob/main/imgs/speech2network.png"> **[🧠 VoiceGraph: Real-Time Speech-to-Knowledge Web App](https://github.com/HallaKim17/talk-to-graph)**
 
 Built with React and Node.js, VoiceGraph uses an STT (Speech-to-Text) API to recognize speech in real time and dynamically visualize it as an interactive knowledge graph. Watch your spoken words transform instantly into a living network of connected ideas.
-   
+
+- ### MelOrbit
+- ### <img align="left" width="250" height="150" src="https://github.com/HallaKim17/DS-Portfolio/blob/main/imgs/melorbit.png"> **[🎵 MelOrbit: A Cosmic Choir Simulator](https://github.com/HallaKim17/hallakim17.github.io/tree/master/ctp431)**
+
+Built with **p5.js**, **Tone.js**, and **sketch.js** on **index.html**, MelOrbit turns the voices of a choir into planetary orbits where melodies revolve in harmony. Conduct your own universe of sound and explore how distinct tones form a celestial symphony. [Web App](http://hallakim17.github.io/ctp431/final_project/index.html)
+
+#
 <br />
  
 ## Core Competencies
