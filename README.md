@@ -45,11 +45,12 @@ Built with **p5.js**, **Tone.js**, and **sketch.js** on **index.html**, MelOrbit
 <br />
 
 ## Micro Projects
-- ### <img align="left" width="250" height="150" src="https://github.com/HallaKim17/DS-Portfolio/blob/main/imgs/speech2network.png"> **[🧠 VoiceGraph: Real-Time Speech-to-Knowledge Web App](https://github.com/HallaKim17/talk-to-graph)**
+- ### VoiceGraph
+  ### <img align="left" width="250" height="150" src="https://github.com/HallaKim17/DS-Portfolio/blob/main/imgs/speech2network.png"> **[🧠 VoiceGraph: Real-Time Speech-to-Knowledge Web App](https://github.com/HallaKim17/talk-to-graph)**
 
 Built with React and Node.js, VoiceGraph uses an STT (Speech-to-Text) API to recognize speech in real time and dynamically visualize it as an interactive knowledge graph. Watch your spoken words transform instantly into a living network of connected ideas.
    
- 
+<br />
  
 ## Core Competencies
 
