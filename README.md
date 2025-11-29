@@ -54,7 +54,7 @@ Built with **p5.js**, **Tone.js**, and **sketch.js** on **index.html**, MelOrbit
 - ### Structure-Intelligence of a Story
   ### <img align="left" width="250" height="150" src="https://github.com/HallaKim17/structure-intelligence/blob/main/page_screenshot.png"> 
 
-A semantic structure analysis engine that identifies narrative tension, resolution, foreshadowing, and payoff patterns from raw text and visualizes them as a timeline-aligned graph. [Project Page]([http://hallakim17.github.io/ctp431/final_project/index.html](https://github.com/HallaKim17/structure-intelligence/tree/main))
+A semantic structure analysis engine that identifies narrative tension, resolution, foreshadowing, and payoff patterns from raw text and visualizes them as a timeline-aligned graph. [Project Page](http://hallakim17.github.io/HallaKim17/structure-intelligence)
 
 
 #
